@@ -1,0 +1,25 @@
+body {
+    background-color: #040403;
+}
+
+h1 {
+    font-family: "Verdana";
+    color: powderblue;
+    text-align: center;
+}
+
+p {
+    font-family: "Verdana";
+    color: white;
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 30px 30px 30px 30px
+}
+
+
+
